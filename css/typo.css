@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Dancing+Script&family=Lobster&family=Pacifico&family=Prompt&family=Rock+Salt&family=Shantell+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Caveat:wght@500&family=Gloria+Hallelujah&family=Kalam&family=Michroma&family=Permanent+Marker&family=Phudu&family=Satisfy&family=Single+Day&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap');
+
+
+.pacifico{
+    font-family: 'Pacifico', cursive;
+}
+.lobster{
+    font-family: 'Lobster', cursive;
+}
+.carter{
+    font-family: 'Carter One', cursive;
+   
+}
+.dancing{
+    font-family: 'Dancing Script', cursive;
+}
+.prompt{
+    font-family: 'Prompt', sans-serif;
+}
+.rock{
+    font-family: 'Rock Salt', cursive;
+}
+.shot{
+    font-family: 'Shantell Sans', cursive;
+    font-weight: bold;
+}
+.acme{
+    font-family: 'Acme', sans-serif;
+}
+.coveat{
+    font-family: 'Caveat', cursive;
+}
+.gloria{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-weight: bold;
+}
+.kolom{
+    font-family: 'Kalam', cursive;
+}
+.mich{
+    font-family: 'Michroma', sans-serif;
+}
+.perma{
+    font-family: 'Permanent Marker', cursive;
+}
+.pudhu{
+    font-family: 'Phudu', cursive;
+}
+.sati{
+    font-family: 'Satisfy', cursive;
+}
+.single{
+    font-family: 'Single Day', cursive;
+}
+.nota{
+    font-family: 'Patrick Hand SC', cursive;
+  }
